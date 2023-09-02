@@ -34,19 +34,19 @@ You will get the results of validating a dataset against different criteria. The
 
 #### What we get from running validations
 
-Overview of validation process
+**Overview of validation process**
 
 ![Overview of validation process](image-1.png)
 
-Column names match the ordered list
+**Column names match the ordered list**
 
 ![Column names match the ordered list](image-2.png)
 
-2.96% of rate_code_id column values do not conform to the values in set. Expectation was intentionally made to generate unexpected values
+**2.96% of rate_code_id column values do not conform to the values in set.** Expectation was intentionally made to generate unexpected values
 
 ![2.96% of rate_code_id column values do not conform to the values in set](image-3.png)
 
-The vendor_id column values are not null
+**The vendor_id column values are not null**
 
 ![vendor_id column values are not null](image-4.png)
 
