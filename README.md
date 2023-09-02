@@ -107,6 +107,4 @@ To install dependencies for this project run:
 
 # What I learned
 
-Great expectations library allows a "Continuous Integration" testing for ETL processes. It let you run tests on your source data as well as on transformed data. Then, any changes you make to your ETL process can be guaranteed by Great expectations tests.
-
-
+Great expectations library allows a "Continuous Integration" testing for ETL processes. It let you run tests on your source data as well as on transformed data. Then, any changes you make to your ETL process can be checked against your expectations by Great Expectations tests.
